@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Patil</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Mohitsp54">
-    <img src="https://komarev.com/ghpvc/?username=Mohitsp54&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
