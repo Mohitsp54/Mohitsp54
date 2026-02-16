@@ -18,7 +18,6 @@
 - 🛠 Worked on **CRM dashboards, E-commerce apps & Real-estate platforms**
 - 🎯 Actively seeking **Frontend / Full-Stack Developer** opportunities  
 - 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: Debugged for **4 hours** once… it was a missing semicolon 😅
 
 📫 **Reach me at:**  
 👉 **Mohitsp54@gmail.com**
@@ -28,11 +27,8 @@
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-patil-3a057b260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mohitsp54" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -73,7 +69,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 
 ---
 
@@ -116,21 +111,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitsp54&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsp54&theme=tokyonight" />
-</p>
-
----
-
 ## ✨ Quote I Believe In
 > *“First, solve the problem. Then, write the code.”* 💡
 
----
-
-⭐ **If you like my work, consider starring my repositories!**
