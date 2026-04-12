@@ -38,7 +38,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![NextJS]()
 
 ---
 
